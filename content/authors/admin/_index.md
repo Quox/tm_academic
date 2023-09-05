@@ -1,84 +1,36 @@
 ---
-# Display name
-title: Alice Wu 吳恩達
-
-# Full name (for SEO)
-first_name: Alice
-last_name: Wu
-
-# Status emoji
+bio: ""
+interests: []
+social:
+  - display:
+      header: false
+    link: https://www.linkedin.com/in/tmazurkiewicz
+    icon_pack: fab
+    icon: linkedin
+  - display:
+      header: false
+    link: https://scholar.google.pl/citations?user=nNVf4ugAAAAJ
+    icon: google-scholar
+    icon_pack: ai
+  - display:
+      header: false
+    link: https://www.researchgate.net/profile/Tomasz-Mazurkiewicz
+    icon: researchgate
+    icon_pack: ai
+organizations: []
+education:
+  courses: []
+superuser: true
 status:
   icon: ☕️
-
-# Is this the primary user of the site?
-superuser: true
-
-# Role/position/tagline
-role: Professor of Artificial Intelligence
-
-# Organizations/Affiliations to show in About widget
-organizations:
-  - name: Stanford University
-    url: https://www.stanford.edu/
-
-# Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
-
-# Interests to show in About widget
-interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
-
-# Education to show in About widget
-education:
-  courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
-      year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
-
-# Social/Academic Networking
-# For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
-#   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
-#   form "mailto:your-email@example.com" or "/#contact" for contact widget.
-social:
-  - icon: envelope
-    icon_pack: fas
-    link: '/#contact'
-  - icon: twitter
-    icon_pack: fab
-    link: https://twitter.com/GeorgeCushen
-    label: Follow me on Twitter
-    display:
-      header: true
-  - icon: graduation-cap # Alternatively, use `google-scholar` icon from `ai` icon pack
-    icon_pack: fas
-    link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
-  - icon: github
-    icon_pack: fab
-    link: https://github.com/gcushen
-  - icon: linkedin
-    icon_pack: fab
-    link: https://www.linkedin.com/
-  # Link to a PDF of your resume/CV.
-  # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.yaml`,
-  # and uncomment the lines below.
-  - icon: cv
-    icon_pack: ai
-    link: uploads/resume.pdf
-
-# Enter email to display Gravatar (if Gravatar enabled in Config)
-email: ''
-
-# Highlight the author in author lists? (true/false)
+last_name: Wu
+role: "Doctor of Engineering | Researcher "
 highlight_name: true
+title: Tomasz Mazurkiewicz
+first_name: Alice
+email: kontakt@tomaszmazurkiewicz.pl
 ---
-
-Alice Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-{style="text-align: justify;"}
+Tomasz Mazurkiewicz received his M.Sc. degree (summa cum laude) in Information Technology with a specialization in cryptology from the Military University
+of Technology, Warsaw, Poland, in 2014. He received a Ph.D. Eng. degree (*summa cum laude*) in Information and Communication Technology in 2021 from the
+same University. His research interests are in logic synthesis and its application in FPGA-based electronic devices. His recent activities cover minimization methods of specific Boolean functions (called index generation functions), i.e., linear and non-disjoint functional decomposition. He is an author or co-author of several papers dealing with this topic, presented at international conferences such as ISCEng, MIXDES, ISMVL, and
+FedCSIS.
