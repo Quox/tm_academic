@@ -36,7 +36,6 @@ title: Tomasz Mazurkiewicz
 first_name: Alice
 email: kontakt@tomaszmazurkiewicz.pl
 ---
-Tomasz Mazurkiewicz received his M.Sc. degree (*summa cum laude*) in Information Technology with a specialization in cryptology from the Military University
-of Technology, Warsaw, Poland, in 2014. He received a Ph.D. Eng. degree (*summa cum laude*) in Information and Communication Technology in 2021 from the
-same University. His research interests are in logic synthesis and its application in FPGA-based electronic devices. His recent activities cover minimization methods of specific Boolean functions (called index generation functions), i.e., linear and non-disjoint functional decomposition. He is an author or co-author of several papers dealing with this topic, presented at international conferences such as ISCEng, MIXDES, ISMVL, and
-FedCSIS.
+I received my M.Sc. degree in Information Technology with a specialization in cryptology from the Military University of Technology, Warsaw, Poland, in 2014. I received a PhD. Eng. degree in Information and Communication Technology in 2021 from the same University. My research interests are in logic synthesis and its application in FPGA-based electronic devices. My recent activities cover minimization methods of specific Boolean functions (called index generation functions), i.e., linear and non-disjoint functional decomposition. I am an author or co-author of several papers dealing with this topic, presented at international conferences such as FedCSIS, ICSEng, MIXDES, and ISMVL.\
+\
+I gained professional experience in institutions dealing with cybersecurity and hardware security, mainly in interdisciplinary teams (IT and electronics). Currently, I work as a team leader and project manager. I am also an expert in some research and development projects concerning electronic devices used to provide security.
