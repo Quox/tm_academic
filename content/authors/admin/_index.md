@@ -19,7 +19,13 @@ social:
     icon_pack: ai
 organizations: []
 education:
-  courses: []
+  courses:
+    - course: Ph.D. Eng. degree in Information and Communication Technology
+      institution: Military University of Technology, Warsaw, Poland
+      year: 2020
+    - institution: Military University of Technology, Warsaw, Poland
+      course: M.Sc. in Computer Science
+      year: 2014
 superuser: true
 status:
   icon: ☕️
